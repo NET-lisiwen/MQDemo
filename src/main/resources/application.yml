@@ -1,0 +1,14 @@
+server:
+  ##端口配置
+  port: 8080
+spring:
+# rabbitmq配置
+  rabbitmq:
+#   mq地址
+    host: 119.3.244.32
+#   mq端口号
+    port: 5672
+#   mq账号
+    username: devmq
+#   mq密码
+    password: Bosssoft@@develope
